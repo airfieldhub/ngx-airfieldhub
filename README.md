@@ -15,7 +15,7 @@ Our philosophy at AirfieldHub is that everything should be simple and straight f
 `npm install ngx-airfieldhub --save`
 
 ### Using YARN
-`coming soon`
+`yarn add ngx-airfieldhub`
 
 
 ## Initial Setup
