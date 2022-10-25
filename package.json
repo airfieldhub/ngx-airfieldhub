@@ -1,0 +1,27 @@
+{
+  "name": "ngx-airfieldhub",
+  "description": "This library is a wrapper for Angular 9+ websites and apps to integrate AirfieldHub seamlessly into your existing system.",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "author":{
+    "name": "Airfield Hub",
+    "email": "hello@airfieldhub.com",
+    "url": "https://airfieldhub.com"
+  },
+  "keywords": [
+    "airfieldhub",
+    "airfield hub",
+    "ngx-airfieldhub",
+    "airfield hub angular",
+    "simple ppr",
+    "ppr forms",
+    "aviation"
+  ],
+  "license": "BSD-4-Clause"
+}
